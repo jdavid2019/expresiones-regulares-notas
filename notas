@@ -35,3 +35,16 @@ Conjuntos de Caracteres
 Grupos
 ( )     - Grupo
 |       - Uno u otro
+
+//Ejemplo:
+Joseph David
+985 400 95 10
+josetex_12@hotmail.com
+
+Carlos Andy
+932-132-32-13
+carlos@outlook.com
+https://www.carlos.andy.com.pe
+
+1. Buscar todos los nombres de un conjunto de ejemplos
+/^\w+\s\w+$/gim
